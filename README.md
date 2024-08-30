@@ -1,7 +1,3 @@
-#include <iostream>
-using namespace std;
+I´m studing about C++.
 
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
+This is my first program using C++. 
